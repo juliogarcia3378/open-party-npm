@@ -1,6 +1,6 @@
 {
   "name": "open_party_api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Move_your_app_forward_with_the_OpenParty_API",
   "license": "Unlicense",
   "main": "src/index.js",
